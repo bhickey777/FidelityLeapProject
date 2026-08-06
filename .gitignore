@@ -1,4 +1,909 @@
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+
 # Compiled class file
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+                                                                        
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# Compiled java classes
+*.class
+
+# java build output
+Last login: Thu Aug  6 09:50:41 on ttys001
+/dev/fd/12:25: command not found: compdef
+brianhickey@MacBookPro GitExamples % ls -all
+total 32
+drwxr-xr-x   7 brianhickey  staff  224 Aug  5 19:34 .
+drwxr-xr-x@ 12 brianhickey  staff  384 Aug  5 23:26 ..
+drwxr-xr-x  17 brianhickey  staff  544 Aug  5 18:33 .git
+-rw-r--r--   1 brianhickey  staff  455 Aug  5 18:02 .gitignore
+-rw-r--r--   1 brianhickey  staff   62 Aug  5 18:33 Greeter.java
+-rw-r--r--   1 brianhickey  staff  123 Aug  5 18:33 helloworld.java
+-rw-r--r--   1 brianhickey  staff   42 Aug  5 18:33 README.md
+brianhickey@MacBookPro GitExamples % vi .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code Settingss
+.vscode/
+
+# Python
+__pycachee__/
+*.pyc
+
+# java build output
 *.class
 
 # Log file
