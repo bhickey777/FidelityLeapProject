@@ -8,13 +8,19 @@ pipeline {
         }
         stage('Build Image') {
             steps {
-                sh 'docker build -t team-skeleton .'
+                sh 'docker build -t team-skeleton:${BUILD_NUMBER} .'
             }
         }
-        stage('Smoke Test') {
+        stage('Test') {
             steps {
-                sh 'docker run --rm team-skeleton'
+                sh 'mvn -B test'
+            }
+            post {
+                always {
+                    junit 'target/surefire-reports/*.xml'
+                }
             }
         }
     }
 }
+
