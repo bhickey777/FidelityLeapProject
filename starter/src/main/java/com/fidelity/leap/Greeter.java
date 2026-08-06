@@ -1,6 +1,6 @@
 package com.fidelity.leap;
 
-public class TeamSkeleton {
+public class Greeter {
     public String greet(String name) {
         return "Good day, " + name;
     }
