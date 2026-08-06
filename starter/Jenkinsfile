@@ -23,4 +23,3 @@ pipeline {
         }
     }
 }
-// This is a multistage pipeline supporting web-hooks via GitHub
