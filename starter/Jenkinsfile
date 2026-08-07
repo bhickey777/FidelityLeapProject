@@ -3,7 +3,7 @@ pipeline {
     agent {
          node {
              label ''
-             customWorkspace '/Users/brianhickey/IdeaProjects/FidelityLeapProject/starter'
+             customWorkspace '/Users/brianhickey/JenkinsWS'
          }
     }
     stages {
