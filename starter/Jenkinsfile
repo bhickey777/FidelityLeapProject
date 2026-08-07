@@ -31,7 +31,11 @@ pipeline {
             }
         }
         stage('Build Image') {
+            when {
+                 branch 'main'
+            }
             steps {
+                echo 'Building main branch'
                 dir('starter') {
                     sh 'docker build -t team-skeleton:${BUILD_NUMBER} .'
                 }
