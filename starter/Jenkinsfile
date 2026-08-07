@@ -1,4 +1,4 @@
-// multipath pipeline for jenkins 
+// multipath pipeline for jenkins and docker check 
 pipeline {
     agent any
     stages {
