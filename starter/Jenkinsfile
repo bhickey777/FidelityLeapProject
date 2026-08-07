@@ -1,4 +1,3 @@
-// multipath pipeline for jenkins and docker check 
 pipeline {
     agent {
          node {
@@ -7,23 +6,23 @@ pipeline {
          }
     }
     stages {
-        stage('Debug') {
-            steps {
-                 sh '''
-                   pwd
-                   ls -la
-                   find . -name Dockerfile
-                 '''
-            }
-        }
-        stage('Check Docker') {
-            steps {
-                sh '''
-                    echo "PATH=$PATH"
-                    which docker
-                    docker --version
-                '''
-            }
+         stage('Debug') {
+               steps {
+                    sh '''
+                        pwd
+                        ls -la
+                        find . -name Dockerfile
+                    '''
+                }
+         }
+         stage('Check Docker') {
+                steps {
+                      sh '''
+                         echo "PATH=$PATH"
+                         which docker
+                         docker --version
+                        '''
+                }
         }
         stage('Checkout') {
             steps {
@@ -32,7 +31,7 @@ pipeline {
         }
         stage('Build Image') {
             steps {
-                sh 'docker build -f ./starter/Dockerfile -t team-skeleton:${BUILD_NUMBER} .'
+                sh 'docker build -t team-skeleton:${BUILD_NUMBER} .'
             }
         }
         stage('Test') {
