@@ -37,10 +37,12 @@ pipeline {
         stage('Test') {
             steps {
                 //sh 'mvn -B test'
+                sh 'pwd'
             }
             post {
                 always {
                     //junit 'target/surefire-reports/*.xml'
+                    sh 'pwd'
                 }
             }
         }
