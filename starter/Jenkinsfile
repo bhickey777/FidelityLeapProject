@@ -2,6 +2,15 @@
 pipeline {
     agent any
     stages {
+        stage('Check Docker') {
+            steps {
+                sh '''
+                    echo "PATH=$PATH"
+                    which docker
+                    docker --version
+                '''
+            }
+        }
         stage('Checkout') {
             steps {
                 checkout scm
