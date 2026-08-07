@@ -1,6 +1,11 @@
 // multipath pipeline for jenkins and docker check 
 pipeline {
-    agent any
+    agent {
+         node {
+             label ''
+             customWorkspace '/Users/brian/projects/MyApp'
+         }
+    }
     stages {
         stage('Debug') {
             steps {
