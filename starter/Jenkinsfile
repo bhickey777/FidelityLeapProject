@@ -2,6 +2,15 @@
 pipeline {
     agent any
     stages {
+        stage('Debug') {
+            steps {
+                 sh '''
+                   pwd
+                   ls -la
+                   find . -name Dockerfile
+                 '''
+            }
+        }
         stage('Check Docker') {
             steps {
                 sh '''
